@@ -1,2 +1,121 @@
-# intro-to-technical-writing
-This is a sample of a college level Introduction to Technical Writing course that focuses on tools utilized by professionals in the field, with the goal of students ending the class with the beginnings of a practical technical writing portfolio.
+# Introduction to Technical Writing
+
+*Build real-world writing skills and a public portfolio*
+
+## Course Overview
+
+This course teaches core technical writing skills and incorporates hands-on industry standard tools used in STEM industries. Students will write, revise, and publish documentation using a professional workflow.
+
+By the end of the course, you will have a **public portfolio** showcasing your work.
+
+## Tools & Technologies
+
+* **Visual Studio Code** – writing and editing
+* **Markdown (`.md`)** – document markup language
+* **Git & GitHub** – version control and publishing
+* **GitHub Pages** – portfolio site hosting
+* **Google Docs** - collaborative writing
+
+## Textbook
+
+* TBA
+* All supplemental readings will be provided by me
+
+## Major Assignments
+
+1. **Instructional Guide**
+   Write a clear, step-by-step “how-to” document with visuals and troubleshooting.
+
+2. **Technical Description / Explainer**
+   Explain a complex concept for a non-expert audience.
+
+3. **Process Documentation OR Usability Report**
+   Document a workflow or evaluate a tool/site through user testing.
+
+4. **Job Packet**
+   Perform research in your field of study, and write job application materials including resume and cover letter.
+
+5. **Final Portfolio + Reflection**
+   Publish your work as a GitHub site and reflect on your growth.
+
+# Course Structure (16 Weeks)
+
+## Unit 1: Foundations + Tools (Weeks 1–3)
+
+* Technical writing basics (audience, purpose, clarity)
+* Markdown fundamentals
+* VS Code setup and workflow
+* Git & GitHub basics
+* *Mini project:* Personal bio page
+
+## Unit 2: Instructional Writing (Weeks 4–6)
+
+* Writing clear instructions
+* Using visuals and formatting
+* Peer review with GitHub
+* **Assignment 1: Instructional Guide**
+
+## Unit 3: Technical Description (Weeks 7–9)
+
+* Writing explanations for non-experts
+* Structuring complex information
+* Style, clarity, and readability
+* **Assignment 2: Technical Description**
+
+## Unit 4: Process / Usability Writing (Weeks 10–12)
+
+* Documenting workflows
+* Usability testing and feedback
+* Revision and collaboration
+* **Assignment 3: Process Doc OR Usability Report**
+
+## Unit 5: Professional Writing + Portfolio (Weeks 13–16)
+
+### Week 13: Career Writing + Research
+
+* Writing in professional contexts
+* Researching careers and roles
+* Analyzing job postings
+
+### Week 14: Job Packet Drafting
+
+* Resume writing and formatting
+* Cover letters and audience targeting
+* Visual design and document layout
+* **Project 4: Job Packet (Resume + Cover Letter + Analysis)**
+
+### Week 15: Portfolio + Reflection
+
+* Final portfolio site (GitHub Pages)
+* Revising all major assignments
+* Reflection on learning and growth
+
+## Grading
+
+* Classwork/Homework: 25%
+* Instructional Guide: 15%
+* Technical Description: 15%
+* Process/Usability Report: 15%
+* Job Packet: 15%
+* Reflection: 10%
+* Portfolio Site: 5%
+
+## Skills Students Gain
+
+### Writing
+
+* Audience-focused communication
+* Clear structure and organization
+* Editing and revision strategies
+* Collaborative documentation
+
+### Technical
+
+* Markdown fluency
+* Git & GitHub workflow
+* Effective use of VS Code
+* Basic HTML/CSS portfolio customization
+
+## Outcome
+
+You’ll leave this course with a **professional GitHub portfolio** you can share with employers, showcasing both your writing and technical skills.
