@@ -1,7 +1,5 @@
 # Introduction to Technical Writing
 
-*Build real-world writing skills and a public portfolio*
-
 ## Course Overview
 
 This course teaches core technical writing skills and incorporates hands-on industry standard tools used in STEM industries. Students will write, revise, and publish documentation using a professional workflow.
