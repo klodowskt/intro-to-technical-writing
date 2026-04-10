@@ -1,5 +1,3 @@
-[Project 1](/projects/project1.md) | Project 2 | [Project 3](/projects/project3.md) | [Project 4](/projects/project4.md) | [Project 5](/projects/project5.md)
-
 # Project 2: Technical Description / Explainer
 
 ## Overview

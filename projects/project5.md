@@ -1,5 +1,3 @@
-[Project 1](/projects/project1.html) | [Project 2](/projects/project2.md) | [Project 3](/projects/project3.md) | [Project 4](/projects/project4.md) | Project 5
-
 # Project 5: Final Portfolio + Reflection
 
 ## Overview
