@@ -1,4 +1,4 @@
-# Project 1: Instructional Guide
+# Project 1: How-To Guide
 
 ## Overview
 
@@ -26,7 +26,7 @@ Choose a task that:
 * Requires at least 5 steps
 * Can be explained to a beginner
 
-You will write an instructional guide that includes:
+You will write a guide that includes:
 
 * A clear introduction explaining the task and its purpose
 * A list of required materials, tools, or prerequisites
