@@ -6,7 +6,7 @@
 
 This course teaches core technical writing skills and incorporates hands-on experience with industry standard tools used in STEM fields. Students will write, revise, and publish documentation using a professional workflow.
 
-By the end of the course, you will have a **public portfolio** showcasing your work.
+By the end of the semester, you will have a **public portfolio** showcasing your work.
 
 ![Meme showing different interpretations of technical writing as a job](assets/images/techwriter1.jpg)
 
@@ -116,4 +116,4 @@ By the end of the course, you will have a **public portfolio** showcasing your w
 
 ## Outcome
 
-You’ll leave this course with a **professional GitHub portfolio** you can share with employers, showcasing both your writing and technical skills.
+You’ll exit this course with a **professional GitHub portfolio** you can share with employers, showcasing both your writing and technical skills.
