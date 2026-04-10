@@ -43,7 +43,7 @@ By the end of the semester, you will have a **public portfolio** showcasing your
 
 ## Course Structure
 
-### Unit 1: Foundations + Tools (Weeks 1–3)
+### Unit 1: Foundations + Tools (Weeks 1–2)
 
 * Technical writing basics (audience, purpose, clarity)
 * Markdown fundamentals
@@ -51,7 +51,7 @@ By the end of the semester, you will have a **public portfolio** showcasing your
 * Git & GitHub basics
 * *Mini project:* Personal bio page
 
-### Unit 2: Instructional Writing (Weeks 4–6)
+### Unit 2: Instructional Writing (Weeks 3–6)
 
 * Writing clear instructions
 * Using visuals and formatting
