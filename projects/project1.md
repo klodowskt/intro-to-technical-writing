@@ -1,3 +1,5 @@
+Project 1 | [Project 2](/projects/project2.md) | [Project 3](/projects/project3.md) | [Project 4](/projects/project4.md) | [Project 5](/projects/project5.md)
+
 # Project 1: Instructional Guide
 
 ## Overview

@@ -1,3 +1,5 @@
+[Project 1](/projects/project1.md) | [Project 2](/projects/project2.md) | Project 3 | [Project 4](/projects/project4.md) | [Project 5](/projects/project5.md)
+
 # Project 3: Process Documentation **OR** Usability Report
 
 ## Overview
