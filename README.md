@@ -31,7 +31,7 @@ By the end of the semester, you will have a **public portfolio** showcasing your
 
 ## Major Projects
 
-1. [**Instructional Guide**](/projects/project1.md): Write a clear, step-by-step “how-to” document with visuals and troubleshooting.
+1. [**How-To Guide**](/projects/project1.md): Write a clear, step-by-step “how-to” document with visuals and troubleshooting.
 
 2. [**Technical Description / Explainer**](/projects/project2.md): Explain a complex concept for a non-expert audience.
 
@@ -56,7 +56,7 @@ By the end of the semester, you will have a **public portfolio** showcasing your
 * Writing clear instructions
 * Using visuals and formatting
 * Peer review with GitHub
-* **Project 1: Instructional Guide**
+* **Project 1: How-To Guide**
 
 ### Unit 3: Technical Description (Weeks 7–9)
 
@@ -97,7 +97,7 @@ By the end of the semester, you will have a **public portfolio** showcasing your
 ## Grading
 
 * Classwork/Homework: 25%
-* Instructional Guide: 15%
+* How-To Guide: 15%
 * Technical Description: 15%
 * Process/Usability Report: 15%
 * Job Packet: 15%
