@@ -95,7 +95,7 @@ Your instructions should match your audience’s:
 
 ## Process & Deadlines
 
-* **Topic Proposal:** (due Week 4)
+* **Topic Proposal:** (due Week 3)
 * **Draft for Peer Review:** (due Week 5)
 * **Final Submission:** (due Week 6)
 
