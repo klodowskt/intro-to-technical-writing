@@ -116,9 +116,9 @@ By the end of the semester, you will have a **public portfolio** showcasing your
 ### Technical
 
 * Markdown fluency
-* Git & GitHub workflow
+* Git/GitHub workflow
+* Version control and process management
 * Effective use of VS Code
-* Basic HTML/CSS portfolio customization
 
 ## Outcome
 
