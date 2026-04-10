@@ -19,7 +19,7 @@ By the end of the course, you will have a **public portfolio** showcasing your w
 * TBA
 * All supplemental readings will be provided by me
 
-## Major Assignments
+## Major Projects
 
 1. [**Instructional Guide**](/projects/project1.md): Write a clear, step-by-step “how-to” document with visuals and troubleshooting.
 
@@ -46,21 +46,21 @@ By the end of the course, you will have a **public portfolio** showcasing your w
 * Writing clear instructions
 * Using visuals and formatting
 * Peer review with GitHub
-* **Assignment 1: Instructional Guide**
+* **Project 1: Instructional Guide**
 
 ## Unit 3: Technical Description (Weeks 7–9)
 
 * Writing explanations for non-experts
 * Structuring complex information
 * Style, clarity, and readability
-* **Assignment 2: Technical Description**
+* **Project 2: Technical Description**
 
 ## Unit 4: Process / Usability Writing (Weeks 10–12)
 
 * Documenting workflows
 * Usability testing and feedback
 * Revision and collaboration
-* **Assignment 3: Process Doc OR Usability Report**
+* **Project 3: Process Doc OR Usability Report**
 
 ## Unit 5: Professional Writing + Portfolio (Weeks 13–16)
 
@@ -77,11 +77,12 @@ By the end of the course, you will have a **public portfolio** showcasing your w
 * Visual design and document layout
 * **Project 4: Job Packet (Resume + Cover Letter + Analysis)**
 
-### Week 15: Portfolio + Reflection
+### Weeks 15-16: Portfolio + Reflection
 
 * Final portfolio site (GitHub Pages)
 * Revising all major assignments
 * Reflection on learning and growth
+* **Project 5: Final Portfolio + Reflection**
 
 ## Grading
 
