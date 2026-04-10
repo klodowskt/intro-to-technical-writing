@@ -21,15 +21,15 @@ By the end of the course, you will have a **public portfolio** showcasing your w
 
 ## Major Assignments
 
-1. [**Instructional Guide**](/projects/project1/): Write a clear, step-by-step “how-to” document with visuals and troubleshooting.
+1. [**Instructional Guide**](/projects/project1.md): Write a clear, step-by-step “how-to” document with visuals and troubleshooting.
 
-2. [**Technical Description / Explainer**](/projects/project2/): Explain a complex concept for a non-expert audience.
+2. [**Technical Description / Explainer**](/projects/project2.md): Explain a complex concept for a non-expert audience.
 
-3. [**Process Documentation OR Usability Report**](/projects/project3/): Document a workflow or evaluate a tool/site through user testing.
+3. [**Process Documentation OR Usability Report**](/projects/project3.md): Document a workflow or evaluate a tool/site through user testing.
 
-4. [**Job Packet**](/projects/project4/): Perform research in your field of study, and write job application materials including resume and cover letter.
+4. [**Job Packet**](/projects/project4.md): Perform research in your field of study, and write job application materials including resume and cover letter.
 
-5. [**Final Portfolio + Reflection**](/projects/project5/): Publish your work as a GitHub site and reflect on your growth.
+5. [**Final Portfolio + Reflection**](/projects/project5.md): Publish your work as a GitHub site and reflect on your growth.
 
 # Course Structure
 
