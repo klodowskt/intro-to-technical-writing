@@ -6,7 +6,7 @@ In this assignment, you will write a technical explanation of a complex concept 
 
 Unlike the Instructional Guide, which focuses on *how to do something*, this project focuses on **how something works or why it matters**. Your goal is to make a complicated idea clear, accurate, and engaging without oversimplifying it.
 
-This type of writing is common in fields like software development, healthcare, engineering, and science communication.
+This type of writing is common in fields like software development, healthcare, engineering, and scientific communication.
 
 ## Learning Objectives
 
