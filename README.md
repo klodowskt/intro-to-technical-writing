@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-This course teaches core technical writing skills and incorporates hands-on industry standard tools used in STEM industries. Students will write, revise, and publish documentation using a professional workflow.
+This course teaches core technical writing skills and incorporates hands-on experience with industry standard tools used in STEM fields. Students will write, revise, and publish documentation using a professional workflow.
 
 By the end of the course, you will have a **public portfolio** showcasing your work.
 
