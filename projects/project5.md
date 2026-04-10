@@ -64,7 +64,7 @@ Revisions may include:
 * Refining structure or formatting
 * Addressing feedback from peers or instructor
 
-### 3. Reflection Essay (500–800 words)
+### 3. Reflection Statement (500–800 words)
 
 Your reflection should address:
 
