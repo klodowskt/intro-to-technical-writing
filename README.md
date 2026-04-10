@@ -21,7 +21,7 @@ By the end of the course, you will have a **public portfolio** showcasing your w
 
 ## Major Assignments
 
-1. [**Instructional Guide**](/projects/project1.md): Write a clear, step-by-step “how-to” document with visuals and troubleshooting.
+1. [**Instructional Guide**](/projects/project1/): Write a clear, step-by-step “how-to” document with visuals and troubleshooting.
 
 2. [**Technical Description / Explainer**](/projects/project2.md): Explain a complex concept for a non-expert audience.
 
