@@ -1,6 +1,12 @@
-[Project 1](/projects/project1.md) | [Project 2](/projects/project2.md) | [Project 3](/projects/project3.md) | [Project 4](/projects/project4.md) | [Project 5](/projects/project5.md)
-
 # Introduction to Technical Writing
+
+## Assignment Sheets
+
+* [Project 1](/projects/project1.md)
+* [Project 2](/projects/project2.md)
+* [Project 3](/projects/project3.md)
+* [Project 4](/projects/project4.md)
+* [Project 5](/projects/project5.md)
 
 ## Course Overview
 
@@ -35,9 +41,9 @@ By the end of the semester, you will have a **public portfolio** showcasing your
 
 5. [**Final Portfolio + Reflection**](/projects/project5.md): Publish your work as a GitHub site and reflect on your growth.
 
-# Course Structure
+## Course Structure
 
-## Unit 1: Foundations + Tools (Weeks 1–3)
+### Unit 1: Foundations + Tools (Weeks 1–3)
 
 * Technical writing basics (audience, purpose, clarity)
 * Markdown fundamentals
@@ -45,43 +51,43 @@ By the end of the semester, you will have a **public portfolio** showcasing your
 * Git & GitHub basics
 * *Mini project:* Personal bio page
 
-## Unit 2: Instructional Writing (Weeks 4–6)
+### Unit 2: Instructional Writing (Weeks 4–6)
 
 * Writing clear instructions
 * Using visuals and formatting
 * Peer review with GitHub
 * **Project 1: Instructional Guide**
 
-## Unit 3: Technical Description (Weeks 7–9)
+### Unit 3: Technical Description (Weeks 7–9)
 
 * Writing explanations for non-experts
 * Structuring complex information
 * Style, clarity, and readability
 * **Project 2: Technical Description**
 
-## Unit 4: Process / Usability Writing (Weeks 10–12)
+### Unit 4: Process / Usability Writing (Weeks 10–12)
 
 * Documenting workflows
 * Usability testing and feedback
 * Revision and collaboration
 * **Project 3: Process Doc OR Usability Report**
 
-## Unit 5: Professional Writing + Portfolio (Weeks 13–16)
+### Unit 5: Professional Writing + Portfolio (Weeks 13–16)
 
-### Week 13: Career Writing + Research
+#### Week 13: Career Writing + Research
 
 * Writing in professional contexts
 * Researching careers and roles
 * Analyzing job postings
 
-### Week 14: Job Packet Drafting
+#### Week 14: Job Packet Drafting
 
 * Resume writing and formatting
 * Cover letters and audience targeting
 * Visual design and document layout
 * **Project 4: Job Packet (Resume + Cover Letter + Analysis)**
 
-### Weeks 15-16: Portfolio + Reflection
+#### Weeks 15-16: Portfolio + Reflection
 
 * Final portfolio site (GitHub Pages)
 * Revising all major assignments
