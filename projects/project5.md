@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this final project, you will revise your work and publish a professional portfolio website showcasing your technical writing.
+In this final project, you will revise your work and publish a professional portfolio website showcasing your technical writing efforts throughout the semester.
 
 This portfolio will serve as a public-facing representation of your skills, suitable for sharing with employers, instructors, or peers.
 
