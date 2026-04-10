@@ -6,7 +6,7 @@ This course teaches core technical writing skills and incorporates hands-on expe
 
 By the end of the course, you will have a **public portfolio** showcasing your work.
 
-![Meme showing different interpretations of technical writing as a job](https://www.siliconrepublic.com/wp-content/uploads/2014/12/img/techwriter1.jpg "Meme showing different interpretations of technical writing as a job")
+![Meme showing different interpretations of technical writing as a job](https://www.siliconrepublic.com/wp-content/uploads/2014/12/img/techwriter1.jpg)
 
 ## Tools & Technologies
 
