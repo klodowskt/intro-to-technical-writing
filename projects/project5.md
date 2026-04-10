@@ -100,7 +100,7 @@ Your work will be evaluated based on:
 
 ## Tips for Success
 
-* Don’t just fix surface errors—revise for clarity and impact
+* Revise for clarity and impact, not just surface changes
 * Choose your strongest work to highlight
 * Keep your design simple and readable
 * Test your site (links, formatting, navigation)
