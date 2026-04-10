@@ -82,21 +82,6 @@ Your reflection should address:
 * Submit a link to your live site
 * Reflections should be submitted as Google Docs
 
-## Formatting & Design Guidelines
-
-* Use **Markdown, HTML, and/or basic CSS** as needed
-* Keep design clean, readable, and professional
-* Ensure navigation is clear and intuitive
-* Maintain consistent formatting across pages
-
-## Audience Requirement
-
-Your portfolio should be designed for:
-
-* Potential employers
-* Internship coordinators
-* Professionals in your field
-
 ## Process & Deadlines
 
 * **Portfolio Draft:** (due Week 16)
