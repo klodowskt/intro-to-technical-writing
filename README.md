@@ -123,3 +123,7 @@ By the end of the semester, you will have a **public portfolio** showcasing your
 ## Outcome
 
 You’ll exit this course with a **professional GitHub portfolio** you can share with employers, showcasing both your writing and technical skills.
+
+---
+
+view source on [GitHub](https://github.com/klodowskt/intro-to-technical-writing)
